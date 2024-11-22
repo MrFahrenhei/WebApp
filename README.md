@@ -1,6 +1,6 @@
 # WebApp
 
-<h1>Small project</h1>
+<h2>Small project</h2>
 <ul>
     <li>Responsive</li>
     <li>Mobile First</li>
